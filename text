@@ -1,0 +1,10 @@
+node index
+node --version
+npm --version
+npm init
+npm install
+npm install express --save
+npm i
+npm i -g nodemon (to globally install a package)
+npm install --save-dev nodemon
+npm uninstall nodemon(package that we want to uninstall)
